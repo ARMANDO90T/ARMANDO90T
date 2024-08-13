@@ -1,12 +1,10 @@
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif">
+</div>
+
 <h1 align="center">👋 ¡Hola! Soy <span style="color: #6C63FF;">Armando Ozaba</span></h1>
 
-<p align="center">Desarrollador web apasionado por fusionar <strong>creatividad</strong> y <strong>tecnología</strong>. También me encanta dibujar en papel, lo que me permite dar un toque personal y único a mis proyectos.</p>
-
----
-
-### 🚀 **Proyectos Actuales**
-- 📚 **Aprendizaje Continuo:** Explorando nuevas herramientas y metodologías para perfeccionar mis proyectos.
-- 🤝 **Colaboración:** Buscando participar en proyectos que combinen desarrollo y diseño creativo.
+<p align="center">Soy un desarrollador web en formación, equilibrando mis estudios universitarios con la programación.</p>
 
 ---
 
@@ -57,7 +55,7 @@
         🌐 Desarrollo Web
     </span>
     <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px;">
-        ✏️ Dibujo
+        ✏️ Dibujo en Papel
     </span>
 </p>
 
@@ -79,11 +77,6 @@
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px;">
     </a>
 </div>
-
----
-
-### ⚡ **Dato Curioso**
-Integro mis <strong>bocetos</strong> en los proyectos web que desarrollo, combinando mis dos pasiones: el arte y la tecnología, en un solo producto.
 
 ---
 
