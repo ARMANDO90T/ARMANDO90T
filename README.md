@@ -5,7 +5,6 @@
 ---
 
 ### 🚀 **Proyectos Actuales**
-- 💻 **Desarrollo Web:** Mejorando habilidades con <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle;"> y <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="vertical-align: middle;">.
 - 📚 **Aprendizaje Continuo:** Explorando nuevas herramientas y metodologías para perfeccionar mis proyectos.
 - 🤝 **Colaboración:** Buscando participar en proyectos que combinen desarrollo y diseño creativo.
 
@@ -14,21 +13,41 @@
 <h2 align="center" style="color: #6C63FF;">🛠️ Habilidades</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align: middle;">
-    </span>
-    <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align: middle;">
-    </span>
-    <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle;">
-    </span>
-    <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle;">
-    </span>
-    <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="vertical-align: middle;">
-    </span>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://www.python.org/doc/" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="vertical-align: middle;">
+        </span>
+    </a>
+    <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank" style="text-decoration: none;">
+        <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" style="vertical-align: middle;">
+        </span>
+    </a>
 </div>
 
 <h2 align="center" style="color: #6C63FF;">🎨 Mis Intereses</h2>
@@ -71,6 +90,6 @@ Integro mis <strong>bocetos</strong> en los proyectos web que desarrollo, combin
 ### 📊 **Estadísticas Actuales**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARMANDO90T&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Armando" style="max-width: 48%; border-radius: 8px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANDO90T&layout=compact&theme=radical" alt="Lenguajes más usados" style="max-width: 48%; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ARMANDO90T&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Armando" style="max-width: 48%; border-radius: 8px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANDO90T&layout=compact&theme=tokyonight" alt="Lenguajes más usados" style="max-width: 48%; border-radius: 8px;">
 </div>
