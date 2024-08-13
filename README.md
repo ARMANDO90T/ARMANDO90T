@@ -4,14 +4,14 @@
 
 ---
 
-### 🌟 **Proyectos Actuales**
-- 🔭 **Desarrollo Web:** Mejorando habilidades con <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle;"> y <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="vertical-align: middle;">.
-- 🌱 **Aprendizaje Continuo:** Explorando nuevas herramientas y metodologías para perfeccionar mis proyectos.
-- 👯 **Colaboración:** Buscando participar en proyectos que combinen desarrollo y diseño creativo.
+### 🚀 **Proyectos Actuales**
+- 💻 **Desarrollo Web:** Mejorando habilidades con <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="vertical-align: middle;"> y <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="vertical-align: middle;">.
+- 📚 **Aprendizaje Continuo:** Explorando nuevas herramientas y metodologías para perfeccionar mis proyectos.
+- 🤝 **Colaboración:** Buscando participar en proyectos que combinen desarrollo y diseño creativo.
 
 ---
 
-<h2 align="center" style="color: #6C63FF;">🚀 Habilidades</h2>
+<h2 align="center" style="color: #6C63FF;">🛠️ Habilidades</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <span style="background-color: #6C63FF; color: #ffffff; padding: 10px 15px; border-radius: 20px; margin: 5px;">
@@ -35,7 +35,7 @@
 
 <p align="center">
     <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px; margin-right: 10px;">
-        💻 Desarrollo Web
+        🌐 Desarrollo Web
     </span>
     <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px;">
         ✏️ Dibujo
@@ -56,6 +56,9 @@
     <a href="mailto:armandobarrios241@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px;">
     </a>
+    <a href="https://discord.com/users/armandoozaba" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px;">
+    </a>
 </div>
 
 ---
@@ -71,5 +74,3 @@ Integro mis <strong>bocetos</strong> en los proyectos web que desarrollo, combin
     <img src="https://github-readme-stats.vercel.app/api?username=ARMANDO90T&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Armando" style="max-width: 48%; border-radius: 8px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARMANDO90T&layout=compact&theme=radical" alt="Lenguajes más usados" style="max-width: 48%; border-radius: 8px;">
 </div>
-
-
