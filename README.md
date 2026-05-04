@@ -2,13 +2,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif">
 </div>
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color: #6C63FF;">Armando Ozaba</span></h1>
+<h1 align="center"><span style="color: #6C63FF;">Armando Ozaba</span></h1>
 
-<p align="center">Soy un desarrollador web en formación, equilibrando mis estudios universitarios con la programación.</p>
+<p align="center">Ingeniero en Computación y Desarrollador Full-Stack, con experiencia en la creación de sistemas y gestión de bases de datos.</p>
 
 ---
 
-<h2 align="center" style="color: #6C63FF;">🛠️ Habilidades</h2>
+<h2 align="center" style="color: #6C63FF;">Habilidades Técnicas</h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
@@ -48,20 +48,23 @@
     </a>
 </div>
 
-<h2 align="center" style="color: #6C63FF;">🎨 Mis Intereses</h2>
+<h2 align="center" style="color: #6C63FF;">Áreas de Interés</h2>
 
 <p align="center">
     <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px; margin-right: 10px;">
-        🌐 Desarrollo Web
+        Desarrollo Full-Stack
+    </span>
+    <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px; margin-right: 10px;">
+        Gestión de Bases de Datos
     </span>
     <span style="background-color: #6C63FF; color: #ffffff; padding: 5px 10px; border-radius: 20px;">
-        ✏️ Dibujo en Papel
+        Dibujo Tradicional
     </span>
 </p>
 
 ---
 
-### 📫 **Cómo Contactarme**
+### **Contacto**
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/luis-armando-barrios-ozaba-2655602a0/" target="_blank" style="text-decoration: none;">
@@ -80,7 +83,7 @@
 
 ---
 
-### 📊 **Estadísticas Actuales**
+### **Estadísticas de GitHub**
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ARMANDO90T&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Armando" style="max-width: 48%; border-radius: 8px;">
